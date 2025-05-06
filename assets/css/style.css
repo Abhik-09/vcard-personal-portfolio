@@ -560,11 +560,11 @@ main {
  * #testimonials 
  */
 
-.testimonials { margin-bottom: 30px; }
+.certifications { margin-bottom: 30px; }
 
-.testimonials-title { margin-bottom: 20px; }
+.certifications-title { margin-bottom: 20px; }
 
-.testimonials-list {
+.certifications-list {
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
